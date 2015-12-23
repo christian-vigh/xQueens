@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<ArrayOfArrayOfArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ArrayOfArrayOfString>
+    <ArrayOfString>
+      <string>E:\Visual Studio\Projects\Programs\xQueens\Program.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>E:\Visual Studio\Projects\Programs\xQueens\Forms\xQueens.cs</string>
+      <string>E:\Visual Studio\Projects\Programs\xQueens\Forms\xQueens.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>E:\Visual Studio\Projects\Programs\xQueens\Forms\xQueensMdiChild.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>E:\Visual Studio\Projects\Programs\xQueens\Forms\xQueenPlayer.cs</string>
+      <string>E:\Visual Studio\Projects\Programs\xQueens\Forms\xQueenPlayer.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>E:\Visual Studio\Projects\Programs\xQueens\Classes\Board.cs</string>
+    </ArrayOfString>
+  </ArrayOfArrayOfString>
+</ArrayOfArrayOfArrayOfString>
