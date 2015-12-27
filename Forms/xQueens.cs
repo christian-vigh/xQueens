@@ -57,7 +57,7 @@ namespace xQueens
 		/// </summary>
 		private void  MainMenuPlayItem_Click  ( object  sender, EventArgs  e )
 		   {
-			xQueenPlayer  form		=  new xQueenPlayer ( this ) ;
+			xQueenPlayer  form		=  new xQueenPlayer ( this, NextChildId ++ ) ;
 
 			ChildForms. Add ( form ) ;
 			form. Show ( ) ;
