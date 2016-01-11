@@ -2,9 +2,9 @@
 <ArrayOfArrayOfArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ArrayOfArrayOfString>
     <ArrayOfString>
-      <string>E:\Visual Studio\Projects\Programs\xQueens\Forms\xQueens.cs</string>
-      <string>E:\Visual Studio\Projects\Programs\xQueens\Forms\xQueens.cs</string>
-      <string>E:\Visual Studio\Projects\Programs\xQueens\Forms\xQueens.Designer.cs</string>
+      <string>e:\visual studio\projects\programs\xqueens\forms\xqueens.cs</string>
+      <string>e:\visual studio\projects\programs\xqueens\forms\xqueens.cs</string>
+      <string>e:\visual studio\projects\programs\xqueens\forms\xqueens.designer.cs</string>
     </ArrayOfString>
     <ArrayOfString>
       <string>e:\visual studio\projects\programs\xqueens\program.cs</string>
@@ -13,8 +13,8 @@
       <string>e:\visual studio\projects\programs\xqueens\forms\xqueensmdichild.cs</string>
     </ArrayOfString>
     <ArrayOfString>
-      <string>E:\Visual Studio\Projects\Programs\xQueens\Forms\xQueenPlayer.cs</string>
-      <string>E:\Visual Studio\Projects\Programs\xQueens\Forms\xQueenPlayer.cs</string>
+      <string>e:\visual studio\projects\programs\xqueens\forms\xqueenplayer.cs</string>
+      <string>e:\visual studio\projects\programs\xqueens\forms\xqueenplayer.cs</string>
       <string>E:\Visual Studio\Projects\Programs\xQueens\Forms\xQueenPlayer.Designer.cs</string>
     </ArrayOfString>
     <ArrayOfString>
@@ -24,10 +24,7 @@
       <string>E:\Visual Studio\Projects\Programs\xQueens\Classes\History.cs</string>
     </ArrayOfString>
     <ArrayOfString>
-      <string>E:\Visual Studio\Projects\Libraries\Thrak\Sources\Controls\ControlExtensions.cs</string>
-    </ArrayOfString>
-    <ArrayOfString>
-      <string>Object Browser</string>
+      <string>e:\visual studio\projects\libraries\thrak\sources\controls\controlextensions.cs</string>
     </ArrayOfString>
   </ArrayOfArrayOfString>
 </ArrayOfArrayOfArrayOfString>
